@@ -1,0 +1,31 @@
+_repo: La-vita-in-Palermo-cento-e-pi--anni-fa-Volume-2_37720
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37720-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Pitrè, Giuseppe
+    aliases:
+    - Pitrè, G. (Giuseppe)
+    - Pitre, Giuseppe
+    birthdate: 1841
+    deathdate: 1916
+    gutenberg_agent_id: '39005'
+    url: http://www.gutenberg.org/2009/agents/39005
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2011-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37720'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Palermo (Italy) -- Social life and customs'
+- !lcc 'DG'
+- !lcsh 'Sicily (Italy) -- Social life and customs'
+title: La vita in Palermo cento e più anni fa, Volume 2
+url: http://www.gutenberg.org/ebooks/37720
