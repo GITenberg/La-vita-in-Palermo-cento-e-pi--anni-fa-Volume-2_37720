@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '39005'
     url: http://www.gutenberg.org/2009/agents/39005
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37720#La-vita-in-Palermo-cento-e-pi--anni-fa-Volume-2
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2011-10-11'
 gutenberg_type: Text
